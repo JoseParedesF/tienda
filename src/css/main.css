@@ -301,7 +301,7 @@ fieldset {
 legend {
   box-sizing: border-box;
   /* 1 */
-  color: inherit;
+  color: black;
   /* 2 */
   display: table;
   /* 1 */
@@ -820,7 +820,7 @@ legend {
       align-items: center;
   font-family: 'Poppins', sans-serif;
   background: url("../images/logo.png");
-  background-size: cover;
+  background-size: auto;
   background-position: center center;
   padding: 15px;
 }
