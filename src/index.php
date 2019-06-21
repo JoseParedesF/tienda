@@ -11,7 +11,7 @@
     <div class="s004">
       <form action="ms-uploadfile.php" method="post" enctype="multipart/form-data">
         <fieldset>
-          <legend>Nota <?php echo rand(0,20); ?></legend>
+          <legend>Nota aleatoria: <?php echo rand(0,20); ?></legend>
         </fieldset>
       </form>
     </div>
