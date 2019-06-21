@@ -148,7 +148,7 @@ dfn {
  */
 mark {
   background-color: #ff0;
-  color: #000;
+  color: black;
 }
 
 /**
@@ -820,8 +820,8 @@ legend {
       align-items: center;
   font-family: 'Poppins', sans-serif;
   background: url("../images/logo.png");
-  background-size: auto;
-  background-position: center center;
+  background-size: 20%;
+  background-position: top center;
   padding: 15px;
 }
 
@@ -832,7 +832,7 @@ legend {
 
 .s004 form legend {
   font-size: 36px;
-  color: #fff;
+  color: black;
   font-weight: 800;
   text-align: center;
   margin-bottom: 50px;
